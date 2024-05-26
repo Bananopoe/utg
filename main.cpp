@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string uA; // Odpowiedź gracza
+string uA; // Odpowiedź
 int respekt; // Punkty respektu
 
 void check(string goodAnswer) {
